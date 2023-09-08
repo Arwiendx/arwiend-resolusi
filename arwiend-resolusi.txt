@@ -5,4 +5,5 @@ Praktikum untuk belajar github
 - selalu mempertanyakan diri
 - selalu meragukan diri sendiri
 - membuang semua apel yang tedapat dalam karung untuk memisahkan mana apel yang busuk dan apel yang bagus
-tololl
+- menambahkan list
+- contoh praktik
