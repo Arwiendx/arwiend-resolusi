@@ -6,3 +6,4 @@ Praktikum untuk belajar github
 - dan menambakan beberapa list baru
 - menambahkan list
 - contoh praktik
+- belajar javascript
